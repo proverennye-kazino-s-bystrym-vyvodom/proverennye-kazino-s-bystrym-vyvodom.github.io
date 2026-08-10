@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: proverennye-kazino-s-bystrym-vyvodom.github.io
+Sitemap: https://proverennye-kazino-s-bystrym-vyvodom.github.io/sitemap.xml
